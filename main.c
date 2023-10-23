@@ -280,10 +280,3 @@ int main(void)
   return(0);
 }
 
-
-
-
-//--------------------------------------------------
-// Почитать о сборе статы
-// https://docs.arenadata.io/en/blog/current/ADB/expensive-requests.html
-//--------------------------------------------------
